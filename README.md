@@ -1,9 +1,9 @@
-## Hi there 👋
+# Bem vindo ao meu perfil! 👋
 
-<!--
-**thaila11/thaila11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thaila
 
-Here are some ideas to get you started:
+*Sou aluna da matéria "Tecnologia e Inovação" da rede estadual de ensino.
+*Estou cursando um curso com base na lingua javacript, na blibioteca p5js, fornecido pela plataforma AaaluraStart
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
